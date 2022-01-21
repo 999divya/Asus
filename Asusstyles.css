@@ -1,0 +1,135 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container-fluid{
+    background-color: #ffff;
+    
+}
+.row navbar1{
+    border: 1px solid rgb(118, 122, 120);
+    height: 35px;
+    --bs-gutter-x: 0.5rem;
+}
+.row{
+    height: 35px;
+    --bs-gutter-x: 0.5rem;
+}
+
+.col-sm-1 navbar1 {
+    border-right: 1px solid rgb(161, 161, 161); 
+    border-collapse: collapse;
+}
+.nav-item dropdown{
+    font-size: 10px;
+    color: #4d4d4d;
+}
+#navbarDropdownMenuLink1{
+    font-size: .82rem;
+    font-weight: 600;
+}
+#navbarDropdownMenuLink2{
+    font-size: .82rem;
+    font-weight: 600;
+}
+#navbarDropdownMenuLink3{
+    font-size: .82rem;
+    font-weight: 600;
+}#navbarDropdownMenuLink4{
+    font-size: .82rem;
+    font-weight: 600;
+}
+#navbarDropdownMenuLink5{
+    font-size: .82rem;
+    font-weight: 600;
+}
+#navbarDropdownMenuLink6{
+font-size: .82rem;
+font-weight: 600;
+}
+#navbarDropdownMenuLink7{
+    font-size: .82rem;
+    font-weight: 600;
+}
+.nav-item{
+    font-size: .82rem;
+    font-weight: 600;
+}
+#navbarDropdownMenuLink8{
+    font-size: .82rem;
+    font-weight: 600;
+}
+#navbarDropdownMenuLink9{
+    font-size: .82rem;
+    font-weight: 600;
+}
+#navbarDropdownMenuLink10{
+    font-size: .82rem;
+    font-weight: 600;
+}
+.carousel-caption d-none d-md-block{
+    font-family: ROGFonts-Regular;
+    font-size: 52px;
+    line-height: 1.16rem;
+    color: #ffff;
+    margin-top: 20px;
+}
+.size1{
+    font-family: ROGFonts-Regular;
+    font-size: 52px;
+    line-height: 1.16rem;
+    color: #ffff;
+    padding-top: 800px;
+}
+.content{
+    margin-top: 20px;
+}
+.carousel-dark .carousel-caption  {
+    color: #f3f1f1;
+}
+
+.events{
+    padding: 0 16px;
+    margin-top: 10px;
+}
+.img1{
+    height: 40px;
+}
+.footer1{
+    font-size: small;
+    color: #4d4d4d;
+    background-color: #f5f5f5;
+}
+.col-lg-2 {
+    flex: 2 0 auto;
+    width: 16.66666667%;
+}
+
+.innercar > div > a > img{
+ height: 550px;
+object-fit: cover;
+}
+.text-decoration > li > a {
+    text-decoration: none;
+    color: #4d4d4d ;
+}
+.foot11{
+    flex-wrap: wrap;
+}
+.ftrsize {
+    font-size: 11px;
+    color: rgb(78, 77, 77);
+    background-color: #f5f5f5;
+}
+.text-info {
+    --bs-text-opacity: 1;
+    color: rgba(var(--black-rgb),var(--bs-text-opacity))!important;
+    font-weight: 700;
+}
+.asuspics{
+        --bs-gutter-x: 0.5rem;
+        --bs-gutter-y: 0;
+}
+.card-img{
+    height: 550px;
+}
